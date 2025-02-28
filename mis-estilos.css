@@ -4,8 +4,12 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
+    padding-top: 10%;
+    font-family: 'Nunito';
 }
 main {
+    padding-top: 20px;
+    padding-bottom: 10%;
     background-color: white;
     width: 40%;
     height: 80%;
